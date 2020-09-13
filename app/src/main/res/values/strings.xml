@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestTask2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about_text">Hi, this is my test app and I just try to practice here my skills and improve it. I hope when the time come you will take me to the lab and give me a chance to become a person who I want to be. Thanks! Now I just try to be better every day.</string>
+    <string name="user_name">User name</string>
+    <string name="about">About</string>
+</resources>

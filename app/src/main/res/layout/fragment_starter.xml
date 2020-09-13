@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".StarterFragment">
+
+    <LinearLayout
+        android:id="@+id/starter"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/starterText"
+            android:layout_width="210dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="150dp"
+            android:text="You just try. Calm down."
+            android:textAlignment="center"
+            android:textSize="30sp"
+
+            />
+
+        <Button
+            android:id="@+id/loginButton"
+            android:layout_width="153dp"
+            android:layout_height="69dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="50dp"
+            android:text="Login"
+
+            />
+
+        <Button
+            android:id="@+id/signUpButton"
+            android:layout_width="153dp"
+            android:layout_height="69dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:text="Sign up"
+
+            />
+    </LinearLayout>
+</layout>
